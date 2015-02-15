@@ -46,6 +46,7 @@
     "gulp-jshint": "^1.8.4",
     "gulp-mocha": "^0.4.1",
     "gulp-rename": "^1.2.0",
+    "jscs-trailing-comma": "^0.3.0",
     "sinon": "^1.10.3",
     "sinon-chai": "^2.5.0",
     "vinyl": "^0.2.3"

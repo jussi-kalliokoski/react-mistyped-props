@@ -32,10 +32,12 @@
     "coveralls": "cat ./coverage/lcov.info | COVERALLS_SERVICE_NAME=\"travis-ci\" ./node_modules/.bin/coveralls",
     "test": "./node_modules/.bin/gulp test"
   },
+  "dependencies": {
+    "did-you-mean": "0.0.0"
+  },
   "devDependencies": {
     "chai": "^1.9.1",
     "coveralls": "^2.10.0",
-    "did-you-mean": "0.0.1",
     "gulp": "^3.6.2",
     "gulp-concat": "^2.2.0",
     "gulp-ignore": "^1.1.0",

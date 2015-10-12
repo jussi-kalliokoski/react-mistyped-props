@@ -1,3 +1,3 @@
 module.exports = {
-    MistypedPropsMixin: require("lib/MistypedPropsMixin"),
+    MistypedPropsMixin: require("./lib/MistypedPropsMixin"),
 };
